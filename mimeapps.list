@@ -1,0 +1,28 @@
+[Added Associations]
+inode/directory=org.kde.dolphin.desktop;
+text/markdown=nvim.desktop;okularApplication_md.desktop;org.kde.kate.desktop;okularApplication_txt.desktop;
+x-scheme-handler/geo=google-maps-geo-handler.desktop;
+x-scheme-handler/http=firefox.desktop;brave-browser.desktop;brave_brave.desktop;
+x-scheme-handler/https=firefox.desktop;brave-browser.desktop;brave_brave.desktop;
+x-scheme-handler/mailto=thunderbird.desktop;userapp-Thunderbird-5Q9FJ1.desktop;
+x-scheme-handler/tel=Zoom.desktop;org.kde.kdeconnect.handler.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-5Q9FJ1.desktop;
+x-scheme-handler/webcal=userapp-Thunderbird-EXX6I1.desktop;
+x-scheme-handler/webcals=userapp-Thunderbird-EXX6I1.desktop;
+
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop;
+text/html=brave-browser.desktop
+text/markdown=nvim.desktop;
+x-scheme-handler/geo=google-maps-geo-handler.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-5Q9FJ1.desktop
+x-scheme-handler/notion=notion-app-enhanced.desktop
+x-scheme-handler/tel=Zoom.desktop;
+message/rfc822=userapp-Thunderbird-5Q9FJ1.desktop
+x-scheme-handler/mid=userapp-Thunderbird-5Q9FJ1.desktop
+x-scheme-handler/webcal=userapp-Thunderbird-EXX6I1.desktop
+text/calendar=userapp-Thunderbird-EXX6I1.desktop
+application/x-extension-ics=userapp-Thunderbird-EXX6I1.desktop
+x-scheme-handler/webcals=userapp-Thunderbird-EXX6I1.desktop

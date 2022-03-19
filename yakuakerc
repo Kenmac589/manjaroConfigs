@@ -1,0 +1,11 @@
+[Appearance]
+Skin=ROUNDED-DARK
+SkinInstalledWithKns=true
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+Height=31
+ShowTabBar=false
+Width=40

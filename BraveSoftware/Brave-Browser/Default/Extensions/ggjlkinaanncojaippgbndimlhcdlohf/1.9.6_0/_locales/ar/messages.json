@@ -1,0 +1,68 @@
+{
+   "downloadThisPaper": {
+      "message": "قم بتحميل هذه الورقة"
+   },
+   "extDesc": {
+      "message": "تساعدك بيبر باندا على تحميل الأوراق."
+   },
+   "extName": {
+      "message": "بيبر باندا — المكان الذي تستطيع الحصول فيه على ملايين الأوراق البحثية."
+   },
+   "ext_default_title": {
+      "message": "PaperPanda"
+   },
+   "goodbyeURL": {
+      "message": "https://paperpanda.app/goodbye"
+   },
+   "instructions": {
+      "message": "التعليمات"
+   },
+   "instructionsURL": {
+      "message": "https://paperpanda.app/instructions"
+   },
+   "lastItem": {
+      "message": "last item"
+   },
+   "openPapersInNewTab": {
+      "message": "افتح ”الأوراق“ في علامة تبويب جديدة"
+   },
+   "openPapersInNewTabExplanation": {
+      "message": "اذا قمت بتحديد هذه الخيار، فستفتح ورقتك في علامة تبويب جديدة"
+   },
+   "paperPandaRecommends": {
+      "message": "التوصيات"
+   },
+   "paperSearchDomains": {
+      "message": "نطاقات البحث عن الأوراق"
+   },
+   "paperSearchDomainsExplanation": {
+      "message": "اذا كان رابط تحميل الأوراق المختار لا يعمل، قم بمحاولة اختيار أحد هذه الخيارات:"
+   },
+   "paperSearchURL": {
+      "message": "رابط البحث عن الورقة"
+   },
+   "paperSearchURLExplanation": {
+      "message": "النطاق الذي ترغب باستخدامه لخدمة تحميل الأوراق"
+   },
+   "rateMe": {
+      "message": "يمني لو سمحت"
+   },
+   "settings": {
+      "message": "الإعدادات"
+   },
+   "shareMe": {
+      "message": "Share the Love"
+   },
+   "thanks": {
+      "message": "شكراً!"
+   },
+   "welcomeURL": {
+      "message": "https://paperpanda.app/welcome?lang=ar"
+   },
+   "xPapers": {
+      "message": "papers"
+   },
+   "youHaveDownloaded": {
+      "message": "You have downloaded"
+   }
+}

@@ -1,0 +1,8 @@
+[FileDialogSize]
+HDMI-1 Height 1920x1080=600
+HDMI-1 Width 1920x1080=980
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/bookmarks_07_03_2022.html,file:$HOME/Downloads/bookmarks_07_03_2022.html
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16

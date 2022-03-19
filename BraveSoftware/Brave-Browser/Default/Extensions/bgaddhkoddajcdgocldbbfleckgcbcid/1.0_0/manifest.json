@@ -1,0 +1,31 @@
+{
+   "background": {
+      "scripts": [ "js/app.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "images/icon16.png",
+         "24": "images/icon24.png",
+         "32": "images/icon32.png"
+      },
+      "default_popup": "app.html",
+      "default_title": "Get cookies.txt"
+   },
+   "content_scripts": [ {
+      "js": [ "js/contentScript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "Exports your cookies to the Netscape cookie file format a.k.a. cookies.txt which is compatible with wget, curl, youtube-dl and more.",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtm9hTHhx+fgHUyYFF9ucxJio2O4vw+zYKCyVFbGZMXEXAsZCQF0ZVOcokjOlGt3OFY9t4xmCLQlYP3klQ7GNWZm2xmGMKqZAWxu/23yoc47BhXpCjWRG9mTCSTTpxyWm5v2e7p5GV74hgE4nBdgE7InHb6ndlk4le3VMzrYq//nRzu3tLaksk4lUsBGBrmtB+pEXMdIR01zyoWZapB9cfC+NbzfUOSQg9T+iEndBfubR+KxzAWH3zRP8NJR5G0roBs3hyBtutEaSOxlLojeaQIn5FzaVZDspISIRU1axF3Nfy4LFvP27QpIknqtP1qICaHz4iuE1ZAnjPccax6HaMQIDAQAB",
+   "manifest_version": 2,
+   "name": "Get cookies.txt",
+   "permissions": [ "cookies", "http://*/*", "https://*/*", "tabs", "webNavigation", "downloads", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

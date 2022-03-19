@@ -1,0 +1,68 @@
+{
+   "downloadThisPaper": {
+      "message": "下载这篇研究论文"
+   },
+   "extDesc": {
+      "message": "PaperPanda帮您下载研究论文"
+   },
+   "extName": {
+      "message": "PaperPanda"
+   },
+   "ext_default_title": {
+      "message": "PaperPanda"
+   },
+   "goodbyeURL": {
+      "message": "https://paperpanda.app/goodbye?lang=cn"
+   },
+   "instructions": {
+      "message": "说明"
+   },
+   "instructionsURL": {
+      "message": "https://paperpanda.app/instructions?lang=cn"
+   },
+   "lastItem": {
+      "message": "last item"
+   },
+   "openPapersInNewTab": {
+      "message": "在新标签页打开研究论文"
+   },
+   "openPapersInNewTabExplanation": {
+      "message": "如您勾选此项，您的研究论文将在新标签页打开"
+   },
+   "paperPandaRecommends": {
+      "message": "PaperPanda 推荐"
+   },
+   "paperSearchDomains": {
+      "message": "研究论文搜索域名"
+   },
+   "paperSearchDomainsExplanation": {
+      "message": "如果所选的研究论文下载 URL 不起作用，请尝试以下选项："
+   },
+   "paperSearchURL": {
+      "message": "研究论文搜索网址"
+   },
+   "paperSearchURLExplanation": {
+      "message": "您想使用的研究论文下载服务的域名"
+   },
+   "rateMe": {
+      "message": "请评价"
+   },
+   "settings": {
+      "message": "设置"
+   },
+   "shareMe": {
+      "message": "分享"
+   },
+   "thanks": {
+      "message": "谢谢 "
+   },
+   "welcomeURL": {
+      "message": "https://paperpanda.app/welcome?lang=cn"
+   },
+   "xPapers": {
+      "message": "研究论文"
+   },
+   "youHaveDownloaded": {
+      "message": "您已下载"
+   }
+}

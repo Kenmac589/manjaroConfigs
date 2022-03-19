@@ -1,0 +1,5 @@
+[General]
+HotspotName=kenziemac-hotspot
+HotspotPassword=
+ManageVirtualConnections=true
+UnlockModemOnDetection=true

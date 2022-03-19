@@ -1,0 +1,68 @@
+{
+   "downloadThisPaper": {
+      "message": "Download this paper"
+   },
+   "extDesc": {
+      "message": "PaperPanda helps you download papers"
+   },
+   "extName": {
+      "message": "PaperPanda — Get millions of research papers"
+   },
+   "ext_default_title": {
+      "message": "PaperPanda"
+   },
+   "goodbyeURL": {
+      "message": "https://paperpanda.app/goodbye"
+   },
+   "instructions": {
+      "message": "Instructions"
+   },
+   "instructionsURL": {
+      "message": "https://paperpanda.app/instructions"
+   },
+   "lastItem": {
+      "message": "last item"
+   },
+   "openPapersInNewTab": {
+      "message": "Open Papers in new tab"
+   },
+   "openPapersInNewTabExplanation": {
+      "message": "If this option is checked, your paper will open in a new tab"
+   },
+   "paperPandaRecommends": {
+      "message": "PaperPanda recommends"
+   },
+   "paperSearchDomains": {
+      "message": "Paper Search Domains"
+   },
+   "paperSearchDomainsExplanation": {
+      "message": "If the selected paper download URL is not working, try selecting one of these:"
+   },
+   "paperSearchURL": {
+      "message": "Paper Search URL"
+   },
+   "paperSearchURLExplanation": {
+      "message": "The domain for the paper downloading service you would like to use"
+   },
+   "rateMe": {
+      "message": "Please Rate Me"
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "shareMe": {
+      "message": "Share the Love"
+   },
+   "thanks": {
+      "message": "Thanks! "
+   },
+   "welcomeURL": {
+      "message": "https://paperpanda.app/welcome"
+   },
+   "xPapers": {
+      "message": "papers"
+   },
+   "youHaveDownloaded": {
+      "message": "You have downloaded"
+   }
+}

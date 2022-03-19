@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{html-50:online}
+html - select all checkbox by javascript or console - stack overflow.
+\newblock
+  \url{http://stackoverflow.com/questions/10908212/select-all-checkbox-by-javascript-or-console}.
+\newblock (Accessed on 2016/05/25).
+
+\bibitem{JabRe89:online}
+Jabref.
+\newblock \url{http://www.jabref.org/}.
+\newblock (Accessed on 05.25.2016).
+
+\bibitem{select}
+{\sc SELECT}.
+\newblock Selectutorial: Class selectors.
+\newblock \url{http://css.maxdesign.com.au/selectutorial/selectors_class.htm},
+  Jan 2014.
+\newblock (Visited on 11-29-2014).
+
+\bibitem{test1}
+{\sc test test, T.}
+\newblock {\em Test test test}.
+\newblock Test Press, 2000.
+
+\bibitem{test2}
+{\sc Test2}.
+\newblock Abstract classes vs. interfaces | javaworld.
+\newblock
+  \url{http://www.javaworld.com/article/2077421/learn-java/abstract-classes-vs-interfaces.html}.
+\newblock (Visited on 12/01/2014).
+
+\end{thebibliography}

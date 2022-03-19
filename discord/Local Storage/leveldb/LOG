@@ -1,0 +1,5 @@
+2022/03/15-03:25:12.961 156a3 Creating DB /home/kenziemac/.config/discord/Local Storage/leveldb since it was missing.
+2022/03/15-03:25:13.102 156a3 Reusing MANIFEST /home/kenziemac/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/03/15-03:27:21.937 156a1 Level-0 table #5: started
+2022/03/15-03:27:22.026 156a1 Level-0 table #5: 348376 bytes OK
+2022/03/15-03:27:22.087 156a1 Delete type=0 #3

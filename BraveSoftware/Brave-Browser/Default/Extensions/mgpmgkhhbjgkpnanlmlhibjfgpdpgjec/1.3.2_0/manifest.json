@@ -1,0 +1,28 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon30.png",
+      "default_popup": "popup.html"
+   },
+   "description": "This extension provides a BibTeX reference for the active URL",
+   "icons": {
+      "128": "images/icon128.png",
+      "30": "images/icon30.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCA0VgHjr4tnzC35xMCa/dwQrz564DM6EBvgErgNP/T18oO1WgwC0FIhVOFdfFEqra4QOyb6KsL9d6H8LSQeOe5TBQM4M2dQM2W3UOTlnNO13E8dfu41OJVqWxwHW1bhuJAn/c6NoZpZvJMMoOpnAy4tdH69Bny+0tP+WCIOaMbWQIDAQAB",
+   "manifest_version": 2,
+   "name": "BibTeX entry from URL",
+   "options_page": "options.html",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options.html"
+   },
+   "permissions": [ "contextMenus", "tabs", "activeTab" ],
+   "short_name": "url_to_bib",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.2"
+}

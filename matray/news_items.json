@@ -1,0 +1,164 @@
+{
+  "Items" : [
+    {
+      "GUID" : "forum.manjaro.org-topic-85608",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-10-08-kernels-mesa-browsers-python-ukui-php-thunderbird-pipewire/85608",
+      "Title" : "[Stable Update] 2021-10-08 - Kernels, Mesa, Browsers, Python, UKUI, PHP, Thunderbird, Pipewire",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-10-08T09:57:11Z",
+      "PublishedDateUnix" : 1633687031,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-86691",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-10-16-haskell-python-kde-gear-kde-framework-thunderbird/86691",
+      "Title" : "[Stable Update] 2021-10-16 - Haskell, Python, KDE Gear, KDE Framework, Thunderbird",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-10-16T16:34:46Z",
+      "PublishedDateUnix" : 1634402086,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-91001",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-11-19-tbd/91001",
+      "Title" : "[Stable Update] 2021-11-19 - TBD",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-11-19T13:06:47Z",
+      "PublishedDateUnix" : 1637327207,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-94025",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-12-10-kernels-systemd-libreoffice-plasma-browser-thunderbird/94025",
+      "Title" : "[Stable Update] 2021-12-10 - Kernels, Systemd, LibreOffice, Plasma, Browser, Thunderbird",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-12-10T20:24:50Z",
+      "PublishedDateUnix" : 1639167890,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-94942",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-12-16-kernels-kde-gear-21-12-0-gnome-extensions-libreoffice/94942",
+      "Title" : "[Stable Update] 2021-12-16 - Kernels, KDE Gear 21.12.0, Gnome Extensions, LibreOffice",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-12-16T11:51:56Z",
+      "PublishedDateUnix" : 1639655516,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-95856",
+      "URL" : "https://forum.manjaro.org/t/manjaro-21-2-0-qonos-released/95856",
+      "Title" : "Manjaro 21.2.0 Qonos released!",
+      "Category" : "Releases",
+      "PublishedDate" : "2021-12-22T18:45:35Z",
+      "PublishedDateUnix" : 1640198735,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-97104",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-01-02-kernels-systemd-kde-frameworks-mesa-xorg-server-wine-python-3-10/97104",
+      "Title" : "[Stable Update] 2022-01-02 - Kernels, Systemd, KDE Frameworks, Mesa, Xorg-Server, Wine, Python 3.10",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-01-02T13:14:49Z",
+      "PublishedDateUnix" : 1641129289,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-97425",
+      "URL" : "https://forum.manjaro.org/t/manjaro-21-2-1-qonos-released-first-point-release-for-2022/97425",
+      "Title" : "Manjaro 21.2.1 Qonos released! - First Point-Release for 2022",
+      "Category" : "Releases",
+      "PublishedDate" : "2022-01-04T13:22:50Z",
+      "PublishedDateUnix" : 1641302570,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-99878",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-01-23-opensearch-kernels-kde-software-cinnamon-pipewire-mesa-gnome-libreoffice/99878",
+      "Title" : "[Stable Update] 2022-01-23 - OpenSearch, Kernels, KDE Software, Cinnamon, Pipewire, Mesa, Gnome, LibreOffice",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-01-24T06:25:39Z",
+      "PublishedDateUnix" : 1643005539,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-99889",
+      "URL" : "https://forum.manjaro.org/t/manjaro-21-2-2-qonos-released/99889",
+      "Title" : "Manjaro 21.2.2 Qonos released!",
+      "Category" : "Releases",
+      "PublishedDate" : "2022-01-24T07:01:41Z",
+      "PublishedDateUnix" : 1643007701,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-100169",
+      "URL" : "https://forum.manjaro.org/t/mini-pc-elitemini-um700-with-manjaro-pre-installed-now-available/100169",
+      "Title" : "Mini PC EliteMini UM700 with Manjaro pre-installed now available",
+      "Category" : "News",
+      "PublishedDate" : "2022-01-25T18:17:00Z",
+      "PublishedDateUnix" : 1643134620,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-101315",
+      "URL" : "https://forum.manjaro.org/t/valentine-s-day-opportunity/101315",
+      "Title" : "Valentine*s Day opportunity",
+      "Category" : "Announcements",
+      "PublishedDate" : "2022-02-04T11:01:51Z",
+      "PublishedDateUnix" : 1643972511,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-101408",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-02-05-kernels-libreoffice-kde-gear-nvidia-calamares-virtualbox-pipewire-mesa-systemd/101408",
+      "Title" : "[Stable Update] 2022-02-05 - Kernels, LibreOffice, KDE Gear, Nvidia, Calamares, VirtualBox, Pipewire, Mesa, Systemd",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-02-05T07:44:27Z",
+      "PublishedDateUnix" : 1644047067,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-102594",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-02-14-kernels-haskell-cutefish-0-7-deepin-firefox-maui-2-1-1-systemd/102594",
+      "Title" : "[Stable Update] 2022-02-14 - Kernels, Haskell, Cutefish 0.7, Deepin, Firefox, Maui 2.1.1, Systemd",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-02-14T17:50:03Z",
+      "PublishedDateUnix" : 1644861003,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-103923",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-02-27-tbd/103923",
+      "Title" : "[Stable Update] 2022-02-27 - TBD",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-02-27T06:09:33Z",
+      "PublishedDateUnix" : 1645942173,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-105493",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-03-14-kernels-kde-libreoffice-kodi-qt5-mozilla-networkmanager-pipewire/105493",
+      "Title" : "[Stable Update] 2022-03-14 - Kernels, KDE, LibreOffice, Kodi, Qt5, Mozilla, NetworkManager, Pipewire",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-03-14T09:16:08Z",
+      "PublishedDateUnix" : 1647249368,
+      "WasOpened" : true,
+      "NotificationSent" : true
+    }
+  ]
+}

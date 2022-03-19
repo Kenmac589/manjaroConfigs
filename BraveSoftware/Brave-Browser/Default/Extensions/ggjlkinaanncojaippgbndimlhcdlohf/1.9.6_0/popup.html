@@ -1,0 +1,288 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+  <style>
+	body {
+		font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+		padding: 0;
+		margin: 0;
+		color: #000;
+		background-color: #eaeaea;
+	}
+	.menuItem {
+		padding: 10px 20px;
+		font-size: 12px;
+		cursor: pointer;
+		width: auto;
+		white-space: nowrap;
+		color: #18362e;
+		background: rgb(246 240 232 / 30%);
+		
+	}
+	.menuItem:hover {
+		background-color: #18362e !important;
+		color: #f6f0e8;
+	}
+	
+	.menuItem#rating {
+		background: #f6f0e8;
+		color: #497557 !important;
+		padding-top: 5px;
+		cursor: default;
+	}
+	.menuItem#rating:hover {
+		background: #f6f0e8 !important;
+		color: #497557 !important
+	}
+	
+	.menuItem#sharing {
+		background: #edecea;
+		color: #497557 !important;
+		padding-top: 5px;
+		cursor: default;
+	}
+	.menuItem#sharing:hover {
+		background: #edecea !important;
+		color: #497557 !important
+	}
+	
+	
+	.rating-headline {
+		text-align: center;
+		font-size: 10px;
+	}
+	#fetchPaper {
+		background-color: #fff;
+		font-size: 14px;
+		font-weight: 500;
+	}
+	
+	#rating-stars {
+		  unicode-bidi: bidi-override;
+		  direction: rtl;
+		  text-align: center;
+		  margin-top: 5px;
+		  font-size: 14px;
+		}
+		#rating-stars > span {
+		  display: inline-block;
+		  position: relative;
+		  width: 16px;
+		  cursor: pointer;
+		}
+		#rating-stars > span:hover,
+		#rating-stars > span:hover ~ span {
+		  color: transparent;
+		}
+		#rating-stars > span:hover:before,
+		#rating-stars > span:hover ~ span:before {
+		   content: "\2605";
+		   position: absolute;
+		   left: 0;
+		   color: gold;
+		}
+		
+		#rating-thanks {
+			text-align: center;
+			color: #000;
+			font-weight: 500;
+			margin-top: 7px;
+		}
+		
+		
+		#menuCounter {
+			color: #18362e;
+			background: #dbe3dd;
+			font-size: 11px;
+			text-align: center;
+		}
+		#menuCounter:hover {
+			color: #18362e !important;
+			background: #dbe3dd !important;
+			cursor: default;
+		}
+		#theCounter {
+			font-weight: bold;
+		}
+		
+		
+		#menuRec {
+			background: #fff;
+			position: relative;
+			
+		}
+		#menuRec:hover {
+			background: #fff !important;
+			color: #18362e !important;
+			cursor: default !important;
+		}
+		#menuRecHeadline {
+			font-size: 11px;
+			opacity: 0.6;
+		}
+		#menuRecItem {
+			margin-top: 5px;
+			position: relative;
+		}
+		#menuRecItemName {
+			font-size: 14px;
+			font-weight: 500;
+		}
+		#menuRecItemTagline {
+			font-size: 11px;
+			opacity: 0.75;
+			white-space: normal;
+		}
+		
+		#menuRecItemAward {
+			width: 100%;
+			height: 21px;
+			background-image: url(images/editorschoice.svg);
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: left center;
+			margin-top: 10px;
+		}
+		#menuRecItemButton {
+			display: block;
+			background: #497557;
+			width: 50px;
+			padding: 3px 5px;
+			text-align: center;
+			color: #fff;
+			font-weight: 600;
+			border-radius: 35px;
+			/* float: right; */
+			position: absolute;
+			right: 0;
+			top: 50px;
+			text-decoration: none;
+			border: 2px solid #497557;
+		}
+		#menuRecItemButton:hover {
+			background: #fff;
+			color: #497557;
+			border: 2px solid #497557;
+		}
+		
+		#menuRecItemX {
+			position: absolute;
+			top: -2px;
+			right: 4px;
+			color: #497557;
+			font-size: 14px;
+			opacity: 0.4;
+			cursor: pointer;
+		}
+		#menuRecItemX:hover {
+			opacity: 0.8;
+		}
+		
+		
+		
+		.shareSocialMedia {
+			margin-top: 10px;
+			text-align: center;
+		}
+		.shareSocialMedia a {
+			display: inline-block;
+			background: #ffffff;
+			margin-right: 2px;
+			margin-left: 2px;
+			border-radius: 20px;
+			padding: 2px;
+			text-decoration: none;
+			text-align: center;
+			line-height: 0;
+			margin-bottom: 6px;
+			width: 26px;
+			height: 26px;
+			line-height: 34px;
+		}
+		.shareSocialMedia a img {
+			display: inline-block;
+			height: 16px;
+		}
+		.shareSocialMedia a:hover img {
+			filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(200%) contrast(200%);
+		}
+		.shareSocialMedia a#share_twitter:hover {
+			background: #1DA1F2;
+		}
+		.shareSocialMedia a#share_fb:hover {
+			background: #4267B2;
+		}
+		.shareSocialMedia a#share_linkedin:hover {
+			background: #2867B2;
+		}
+		.shareSocialMedia a#share_whatsapp:hover {
+			background: #24D366;
+		}
+		.shareSocialMedia a#share_wechat:hover {
+			background: #71C267;
+		}
+		.shareSocialMedia a#share_weibo:hover {
+			background: #F6883E;
+		}
+		.shareSocialMedia a#share_qq:hover {
+			background: #7CC5F1;
+		}
+		.shareSocialMedia a#share_qzone:hover {
+			background: #F4C031;
+		}
+		.toolbarPanda {margin-bottom: -4px;}
+  </style>
+</head>
+<body>
+	<div class="menuItem" id="fetchPaper"><img class="toolbarPanda" src="images/panda.png" height="18" />&nbsp;&nbsp;<span data-locale="downloadThisPaper">Download this paper</span></div>
+	<div class="menuItem" id="instructions"><span data-locale="instructions">Instructions</span></div>
+	<div class="menuItem" id="settings"><span data-locale="settings">Settings</span></div>
+	
+	<!-- <div class="menuItem" id="menuCounter">
+		<span data-locale="youHaveDownloaded">You have downloaded</span> <span id="theCounter">0</span> <span data-locale="xPapers">papers</span>
+	</div> -->
+	
+	
+	<div class="menuItem" id="menuRec" style="display:none">
+		<div id="menuRecItemX">×</div>
+		<div id="menuRecHeadline"><span data-locale="paperPandaRecommends">PaperPanda recommends</span></div>
+		<div id="menuRecItem">
+			<div id="menuRecItemName"></div>
+			<div id="menuRecItemTagline"></div>
+			<div id="menuRecItemAward"></div>
+			<a href="https://citationsy.com" target="_blank" id="menuRecItemButton">Get it</a>
+		</div>
+		
+	</div>
+	
+	<div class="menuItem" id="rating" style="display:none;">
+		<div class="rating-headline"><span data-locale="rateMe">Please Rate Me</span></div>
+		<div id="rating-stars">
+			<span id="rating-star-5">☆</span><span id="rating-star-4">☆</span><span id="rating-star-3">☆</span><span id="rating-star-2">☆</span><span id="rating-star-1">☆</span>
+		</div>
+		<div id="rating-thanks" style="display:none"><span data-locale="thanks">Thanks!</span></div>
+	</div>
+	
+	<!-- <div class="menuItem" id="sharing">
+		<div class="rating-headline"><span data-locale="shareMe">Share the Love</span></div>
+		<div class="shareSocialMedia">
+			<a href="#share" id="share_twitter"><img src="/images/twitter.svg" alt="Twitter"></a>
+			<a href="#share" id="share_fb"><img src="/images/fb.svg" alt="Facebook"></a>
+			<a href="#share" id="share_linkedin"><img src="/images/li.svg" alt="LinkedIn"></a>
+			
+			<a href="#share" id="share_whatsapp"><img src="/images/whatsapp.svg" alt="WhatsApp"></a>
+			<br>
+			<a href="#share" id="share_wechat"><img src="/images/wechat.svg" alt="WeChat"></a>
+			
+			<a href="#share" id="share_weibo"><img src="/images/weibo.svg" alt="Weibo"></a>
+			<a href="#share" id="share_qq"><img src="/images/qq.svg" alt="QQ"></a>
+			<a href="#share" id="share_qzone"><img src="/images/qzone.svg" alt="QZone"></a>
+			
+			<div class="clear"></div>
+		</div>
+	</div> -->
+	
+	<script src="popup.js"></script>
+</body>
+</html>

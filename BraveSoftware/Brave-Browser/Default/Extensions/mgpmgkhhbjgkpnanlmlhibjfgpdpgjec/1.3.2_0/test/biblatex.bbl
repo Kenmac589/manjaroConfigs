@@ -1,0 +1,70 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nyt}{nyt}
+    \entry{HTMLD52:online}{online}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{HTML DOM Input Checkbox checked Property}
+      \verb{url}
+      \verb http://www.w3schools.com/jsref/prop_checkbox_checked.asp
+      \endverb
+    \endentry
+    \entry{html-11:online}{online}{}
+      \field{sortinit}{h}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{html - Select All checkbox by javascript or console - Stack Overflow}
+      \verb{url}
+      \verb http://stackoverflow.com/questions/10908212/select-all-checkbox-by-javascript-or-console
+      \endverb
+      \warn{\item Datamodel: Entry 'html-11:online' (biblatex.bib): Invalid format '2016.05.25' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{stack}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2187e1021a911b3807cc1bea2eb1a9ca}{Stack}{S\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{2187e1021a911b3807cc1bea2eb1a9ca}
+      \strng{fullhash}{2187e1021a911b3807cc1bea2eb1a9ca}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2012}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{note}{14.44 Uhr}
+      \field{title}{Why Latex is science}
+      \field{urlday}{29}
+      \field{urlmonth}{04}
+      \field{urlyear}{2013}
+      \field{year}{2012}
+      \verb{url}
+      \verb www.tex.stackexchange.com
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

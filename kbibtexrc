@@ -1,0 +1,141 @@
+[DocumentList-Open]
+LastAccess-0=2022-03-08-04-13-39-549
+URL-0=/home/kenziemac/Documents/PapersGit/Paper-Intro_and_Methods/Intro_and_Methods.bib
+URL-current=/home/kenziemac/Documents/PapersGit/Paper-Intro_and_Methods/Intro_and_Methods.bib
+
+[DocumentList-RecentlyUsed]
+LastAccess-0=2022-03-08-04-13-39-549
+URL-0=/home/kenziemac/Documents/PapersGit/Paper-Intro_and_Methods/Intro_and_Methods.bib
+
+[Filter Bar]
+CurrentCombination=0
+CurrentField=0
+PreviousSearches=202203080414Fredbord,202203080414Fredborg
+SearchPDFFiles=true
+
+[KFileDialog Settings]
+Recent Files[$e]=Intro_and_Methods.bib,file:$HOME/Documents/PapersGit/Paper-Intro_and_Methods/Intro_and_Methods.bib
+Recent URLs[$e]=file:$HOME/Documents/PapersGit/Paper-Intro_and_Methods/
+detailViewIconSize=16
+
+[KTextEditor Document]
+Allow End of Line Detection=true
+Auto Detect Indent=true
+BOM=false
+Backup Local=false
+Backup Prefix=
+Backup Remote=false
+Backup Suffix=~
+Camel Cursor=true
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=10000
+Newline at End of File=true
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=1
+ReplaceTabsDyn=true
+Show Spaces=0
+Show Tabs=true
+Smart Home=true
+Swap Directory=
+Swap File Mode=1
+Swap Sync Interval=15
+Tab Handling=2
+Tab Width=4
+Trailing Marker Size=1
+Word Wrap=false
+Word Wrap Column=80
+
+[KTextEditor Editor]
+Encoding Prober Type=1
+Fallback Encoding=ISO 8859-15
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Auto Color Theme Selection=true
+Color Theme=Breeze Dark
+Font=Hack,10,-1,7,50,0,0,0,0,0
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[KTextEditor View]
+Allow Mark Menu=true
+Auto Brackets=false
+Auto Center Lines=0
+Auto Completion=true
+Auto Completion Preselect First Entry=true
+Backspace Remove Composed Characters=false
+Bookmark Menu Sorting=0
+Bracket Match Preview=false
+Chars To Enclose Selection=<>(){}[]'"
+Default Mark Type=1
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
+Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
+Fold First Line=false
+Folding Bar=true
+Folding Preview=true
+Icon Bar=false
+Input Mode=0
+Keyword Completion=true
+Line Modification=true
+Line Numbers=true
+Maximum Search History Size=100
+Mouse Paste At Cursor Position=false
+Persistent Selection=false
+Scroll Bar Marks=false
+Scroll Bar Mini Map All=true
+Scroll Bar Mini Map Width=60
+Scroll Bar MiniMap=true
+Scroll Bar Preview=true
+Scroll Past End=false
+Search/Replace Flags=140
+Show Focus Frame Around Editor=true
+Show Line Count=false
+Show Scrollbars=0
+Show Word Count=false
+Smart Copy Cut=true
+Text Drag And Drop=true
+User Sets Of Chars To Enclose Selection=
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[MainWindow]
+HDMI-1 Height 1920x1080=825
+HDMI-1 Width 1920x1080=1277
+HDMI-1 XPosition 1920x1080=299
+HDMI-1 YPosition 1920x1080=114
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAFRAAADC/wCAAAAAvwAAAAuAAABeQAAAUYBAAAd+gAAAAMCAAAABPsAAAAaAGQAbwBjAGsAVgBhAGwAdQBlAEwAaQBzAHQBAAAAAP////8AAADFAQAAA/sAAAAcAGQAbwBjAGsAUwB0AGEAdABpAHMAdABpAGMAcwEAAAAA/////wAAAOgBAAAD+wAAACAAZABvAGMAawBGAGkAbABlAFMAZQB0AHQAaQBuAGcAcwEAAAAA/////wAAASgBAAAD+wAAACAAZABvAGMAawBEAG8AYwB1AG0AZQBuAHQATABpAHMAdAEAAAAA/////wAAAJ8BAAAD/AAAAagAAAGRAAABSgEAAB36AAAAAAIAAAAD+wAAABQAZABvAGMAawBaAG8AdABlAHIAbwEAAAAA/////wAAASwBAAAD+wAAABwAZABvAGMAawBTAGUAYQByAGMAaABGAHIAbwBtAQAAAAD/////AAAA7wEAAAP7AAAAKABkAG8AYwBrAFIAZQBmAGUAcgBlAG4AYwBlAFAAcgBlAHYAaQBlAHcBAAAAAP////8AAADLAQAAAwAAAAEAAAAAAAAAAPwCAAAAAfsAAAAmAGQAbwBjAGsARABvAGMAdQBtAGUAbgB0AFAAcgBlAHYAaQBlAHcAAAAAAP////8AAAFCAQAAAwAAAAMAAAAAAAAAAPwBAAAAAvsAAAAeAGQAbwBjAGsAUgBlAHMAdQBsAHQAcwBGAHIAbwBtAAAAAAD/////AAAB7AEAAAP7AAAAHgBkAG8AYwBrAEUAbABlAG0AZQBuAHQARgByAG8AbQAAAAAA/////wAAA2MBAAADAAADqwAAAwsAAAABAAAAAgAAAAEAAAAC/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+
+[Search Engines Docklet]
+CERNDocumentServer=false
+DOI=false
+IDEASRePEc=false
+IngentaConnect=false
+InspireHigh-EnergyPhysicsLiteratureDatabase=false
+JSTOR=false
+MRLookup=false
+MathSciNet=false
+SAONASAAstrophysicsDataSystemADS=false
+bioRxiv=false
+
+[Value List Docklet]
+FieldName=Author
+
+[WelcomeWidget]
+LRUlistHeaderState=\x00\x00\x00\xff\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\xba\x00\x00\x00\x03\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00d\xff\xff\xff\xff\x00\x00\x00\x81\x00\x00\x00\x03\x00\x00\x00\x03\x00\x00\x00\xb0\x00\x00\x00\x01\x00\x00\x00\x03\x00\x00\x00\xa6\x00\x00\x00\x01\x00\x00\x00\x03\x00\x00\x00d\x00\x00\x00\x01\x00\x00\x00\x03\x00\x00\x03\xe8\x00\x00\x00\x00d

@@ -1,0 +1,29 @@
+p.has-text-grey-dark {
+    justify-content: center;
+    align-items: center;
+}
+
+.table thead, .table tbody {
+    font-size: 0.7rem;
+}
+
+.table.is-narrow td, .table.is-narrow th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+tbody td:first-child, tbody td:last-child, tbody td:nth-of-type(6) {
+    max-width: 8rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: table-cell;
+}
+
+.buttons:not(:last-child) {
+    margin-bottom: 0.5rem;
+}
+
+#content, #no-cookies-found {
+    display: none;
+}

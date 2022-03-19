@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Options - Merge Windows</title>
+
+<link href="options.css" rel="stylesheet" type="text/css">
+</head>
+<body style="text-align:left; padding:25px;">
+
+  <h2>Merge Windows Options:</h2>
+  
+
+<p>&nbsp;</p>
+  
+<h3>Icon</h3>   
+    
+   
+      <p>   <input id="defaultIcon" type="radio" name="icon" /> <label for='defaultIcon'>Default Icon</label> <img src="icon24.png" valign="middle" /></p>
+      <p>   <input id="yellowIcon" type="radio" name="icon" /> <label for='yellowIcon'>Yellow Icon</label> <img src="yellow.png" valign="middle" /></p>
+       <p>  <input id="greenIcon" type="radio" name="icon" /> <label for='greenIcon'>Green Icon</label> <img src="green.png" valign="middle" /></p>
+     <p>  <input id="blueIcon" type="radio" name="icon" /> <label for='blueIcon'>Blue Icon</label> <img src="blue.png" valign="middle" /></p>
+     <p>  <input id="redIcon" type="radio" name="icon" /> <label for='redIcon'>Red Icon</label> <img src="red.png" valign="middle" /></p>
+        <p>  <input id="ownIcon" type="radio" name="icon"  /> <label for='ownIcon'>   
+
+            Select your own icon (19x19 pixels):</label> 
+
+            <input type="file" id="upload-file"  />
+            
+            <!-- We'll display the image in this DIV -->
+            <div id="destination"></div>
+            <div id="errorMessage"></div>
+        </p>   
+    <p>&nbsp;</p><p><h3><a href="https://singleclickapps.com/merge-windows/exclusions-list.html" target="_blank">How to prevent tabs/windows from merging?</a></h3></p><p>&nbsp;</p>
+   <h3>Excluded Hostnames </h3>
+
+  <p>The following hostnames will be excluded when merging wiondows:</p>
+
+  <p><table name="TF_rules" id="TF_rules" style="width:100%;border: 1px solid black;margin-bottom: 20px;table-layout: fixed"></table></p>
+<p><table name="TF_add" id="TF_add" style="width:100%;border: 0px solid black;margin-bottom: 20px;table-layout: fixed"><tr><td>
+    <label for="name">Title (just for you, can be left blank):</label>
+    <input type="text" id="name" name="name" style="width:100%">
+    </td>
+    <td>    
+    <label for="name">Hostname (include the protocol, for example - "https://example.com"):</label>
+    <input type="text" id="host" name="host" style="width:100%">
+    </td><td style="width:150px">
+    <label for="name">&nbsp;</label>
+    <input type="button" id="addex" name="addex" style="width:100%" value="[+] add exclusion">
+    </td></tr></table></p>
+  <p>Currently Open Pages with their respective hostnames (click "add exclusion" to add hostname/domain to the above list and prevent from merging):</p>
+
+  <p><div id="currOpen"></div></p>
+
+  <h3>More info:<br />
+  </h3>
+<a href="https://singleclickapps.com/merge-windows/">http://singleclickapps.com/merge-windows</a>
+
+ <script src="options.js"></script>  
+    
+</body>
+</html>

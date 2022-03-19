@@ -1,0 +1,68 @@
+{
+   "downloadThisPaper": {
+      "message": "Diesen Artikel laden"
+   },
+   "extDesc": {
+      "message": "PaperPanda gibt Zugriff auf wisschenschaftliche Artikel, Paper, und PDFs"
+   },
+   "extName": {
+      "message": "PaperPanda - Millionen wissenschaftliche Artikel"
+   },
+   "ext_default_title": {
+      "message": "PaperPanda"
+   },
+   "goodbyeURL": {
+      "message": "https://paperpanda.app/goodbye?lang=de"
+   },
+   "instructions": {
+      "message": "Anleitung"
+   },
+   "instructionsURL": {
+      "message": "https://paperpanda.app/instructions?lang=de"
+   },
+   "lastItem": {
+      "message": "last item"
+   },
+   "openPapersInNewTab": {
+      "message": "Artikel in neuem Tab öffnen"
+   },
+   "openPapersInNewTabExplanation": {
+      "message": "Wenn diese Option aktiviert ist, öffnen sich Artikel automatisch in einem neuen Tab"
+   },
+   "paperPandaRecommends": {
+      "message": "PaperPanda empfielht"
+   },
+   "paperSearchDomains": {
+      "message": "Artikel-Such-Domains"
+   },
+   "paperSearchDomainsExplanation": {
+      "message": "Wenn die ausgewähle Artikel-Such-Domain nicht funktioniert, kannst du eine von diesen probieren: "
+   },
+   "paperSearchURL": {
+      "message": "Artikel-Such-Domain"
+   },
+   "paperSearchURLExplanation": {
+      "message": "Die Domain für den Paper Service den du benutzen möchtest"
+   },
+   "rateMe": {
+      "message": "Bewerte mich"
+   },
+   "settings": {
+      "message": "Einstellungen"
+   },
+   "shareMe": {
+      "message": "Share the Love"
+   },
+   "thanks": {
+      "message": "Danke! "
+   },
+   "welcomeURL": {
+      "message": "https://paperpanda.app/welcome?lang=de"
+   },
+   "xPapers": {
+      "message": "Artikel geladen"
+   },
+   "youHaveDownloaded": {
+      "message": "Du hast"
+   }
+}

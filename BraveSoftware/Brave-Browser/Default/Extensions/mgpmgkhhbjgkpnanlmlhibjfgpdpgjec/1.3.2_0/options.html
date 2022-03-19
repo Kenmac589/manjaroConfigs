@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>BibTeXFromURL Options</title>
+    </head>
+    <body>
+        <center>
+            Omit empty fields
+            <input type="checkbox" id="empty_bx" name="empty_f"/>
+            <p>
+
+            Include page access date
+            <input type="checkbox" id="acc_bx" name="accessed_f"/>
+            <p>
+
+            Use @online instead of @misc
+            <input type="checkbox" id="format_bx" name="accessed_f"/>
+            <p>
+
+            Date Format
+            <select id="date_sel">
+                <option value="M-1">mm/dd/yyyy</option>
+                <option value="M-2">mm-dd-yyyy</option>
+                <option value="M-3">mm.dd.yyyy</option>
+                <option value="L-1">dd/mm/yyyy</option>
+                <option value="L-2">dd-mm-yyyy</option>
+                <option value="L-3">dd.mm.yyyy</option>
+                <option value="B-1">yyyy/mm/dd</option>
+                <option value="B-2">yyyy-mm-dd</option>
+                <option value="B-3">yyyy.mm.dd</option>
+                <option value="O-1">mm/yyyy</option>
+            </select>
+        </center>
+        <script src="js/options.js"></script>
+    </body>
+</html>

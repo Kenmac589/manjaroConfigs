@@ -1,0 +1,8 @@
+[Adapters]
+74:29:AF:34:72:2E_powered=true
+
+[Devices]
+connectedDevices=
+
+[Global]
+launchState=enable

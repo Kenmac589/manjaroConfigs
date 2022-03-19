@@ -1,0 +1,68 @@
+{
+   "downloadThisPaper": {
+      "message": "Загрузить этот файл"
+   },
+   "extDesc": {
+      "message": "PaperPanda помогает загрузить научные работы"
+   },
+   "extName": {
+      "message": "PaperPanda - Доступ к миллионам научных работ"
+   },
+   "ext_default_title": {
+      "message": "PaperPanda"
+   },
+   "goodbyeURL": {
+      "message": "https://paperpanda.app/goodbye"
+   },
+   "instructions": {
+      "message": "Инструкции"
+   },
+   "instructionsURL": {
+      "message": "https://paperpanda.app/instructions"
+   },
+   "lastItem": {
+      "message": "last item"
+   },
+   "openPapersInNewTab": {
+      "message": "Открыть Файлы в новой вкладке"
+   },
+   "openPapersInNewTabExplanation": {
+      "message": "Зачеркните это поле для открытия файла в новой вкладке"
+   },
+   "paperPandaRecommends": {
+      "message": "PaperPanda recommends"
+   },
+   "paperSearchDomains": {
+      "message": "Поиск файлов по доменам"
+   },
+   "paperSearchDomainsExplanation": {
+      "message": "Если URL выбранного Вами файла не работает, попробуйте выбрать один из этих:"
+   },
+   "paperSearchURL": {
+      "message": "Поиск файла по URL"
+   },
+   "paperSearchURLExplanation": {
+      "message": "Предпочитаемый Вами домен для загрузки файла"
+   },
+   "rateMe": {
+      "message": "Пожалуйста Оцените Меня"
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "shareMe": {
+      "message": "Share the Love"
+   },
+   "thanks": {
+      "message": "Спасибо! "
+   },
+   "welcomeURL": {
+      "message": "https://paperpanda.app/welcome?lang=ru"
+   },
+   "xPapers": {
+      "message": "файлов"
+   },
+   "youHaveDownloaded": {
+      "message": "Вы загрузили"
+   }
+}
