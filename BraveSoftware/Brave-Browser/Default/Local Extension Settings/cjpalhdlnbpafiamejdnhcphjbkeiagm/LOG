@@ -1,3 +1,9 @@
-2022/03/19-01:15:14.363 39510 Reusing MANIFEST /home/kenziemac/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2022/03/19-01:15:14.364 39510 Recovering log #13
-2022/03/19-01:15:14.622 39510 Reusing old log /home/kenziemac/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000013.log 
+2022/03/21-06:57:39.674 10f05 Reusing MANIFEST /home/kenziemac/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2022/03/21-06:57:39.674 10f05 Recovering log #16
+2022/03/21-06:57:39.674 10f05 Reusing old log /home/kenziemac/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000016.log 
+2022/03/21-07:03:29.194 11205 Level-0 table #24: started
+2022/03/21-07:03:29.716 11205 Level-0 table #24: 2020427 bytes OK
+2022/03/21-07:03:29.778 11205 Delete type=0 #16
+2022/03/21-07:08:31.571 1121b Level-0 table #26: started
+2022/03/21-07:08:31.810 1121b Level-0 table #26: 2228741 bytes OK
+2022/03/21-07:08:31.855 1121b Delete type=0 #23

@@ -1,11 +1,29 @@
+[Favorites-org.kde.plasma.kicker.favorites.instance-48-bcf7169c-5bfe-4bdc-a10b-577da3c77a1f]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-48-global]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
+
 [Favorites-org.kde.plasma.kicker.favorites.instance-49-bcf7169c-5bfe-4bdc-a10b-577da3c77a1f]
-ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.discover
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
 
 [Favorites-org.kde.plasma.kicker.favorites.instance-49-global]
-ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.discover
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-50-bcf7169c-5bfe-4bdc-a10b-577da3c77a1f]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-50-global]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-53-bcf7169c-5bfe-4bdc-a10b-577da3c77a1f]
+ordering=applications:org.kde.dolphin.desktop,preferred://browser,applications:systemsettings.desktop,applications:Alacritty.desktop,applications:org.kde.elisa.desktop,applications:visual-studio-code.desktop
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-53-global]
+ordering=applications:org.kde.dolphin.desktop,preferred://browser,applications:systemsettings.desktop,applications:Alacritty.desktop,applications:org.kde.elisa.desktop,applications:visual-studio-code.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-4-bcf7169c-5bfe-4bdc-a10b-577da3c77a1f]
-ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:visual-studio-code.desktop,applications:org.manjaro.pamac.manager.desktop
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:visual-studio-code.desktop,applications:org.manjaro.pamac.manager.desktop,applications:Alacritty.desktop,applications:org.kde.elisa.desktop,applications:org.kde.kate.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-4-global]
-ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:visual-studio-code.desktop,applications:org.manjaro.pamac.manager.desktop
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:visual-studio-code.desktop,applications:org.manjaro.pamac.manager.desktop,applications:Alacritty.desktop,applications:org.kde.elisa.desktop,applications:org.kde.kate.desktop

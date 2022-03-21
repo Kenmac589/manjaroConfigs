@@ -1,13 +1,13 @@
 [Devices][/org/freedesktop/UDisks2/block_devices/loop0]
 EverMounted=true
 Icon=application-vnd.snap
-LastNameSeen=bitwarden_63.snap
+LastNameSeen=bare_5.snap
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/loop1]
 EverMounted=true
 Icon=application-vnd.snap
-LastNameSeen=bare_5.snap
+LastNameSeen=bitwarden_63.snap
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/loop10]
@@ -31,25 +31,25 @@ LastSeenMounted=true
 [Devices][/org/freedesktop/UDisks2/block_devices/loop13]
 EverMounted=true
 Icon=application-vnd.snap
-LastNameSeen=snapd_15177.snap
+LastNameSeen=snapd_14978.snap
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/loop14]
 EverMounted=true
 Icon=application-vnd.snap
-LastNameSeen=teams-for-linux_221.snap
+LastNameSeen=snapd_15177.snap
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/loop15]
 EverMounted=true
 Icon=application-vnd.snap
-LastNameSeen=teams-for-linux_225.snap
+LastNameSeen=teams-for-linux_221.snap
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/loop16]
 EverMounted=true
 Icon=application-vnd.snap
-LastNameSeen=snapd_14978.snap
+LastNameSeen=teams-for-linux_225.snap
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/loop2]

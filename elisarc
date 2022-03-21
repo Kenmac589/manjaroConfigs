@@ -3,7 +3,7 @@ RootPath[$e]=$HOME/Music
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/Music/Alternative.m3u8,file:$HOME/Music/Alternative.m3u8
-Recent URLs[$e]=file:$HOME/Music/,file:$HOME/Documents/
+Recent URLs[$e]=file:$HOME/Music/,file:$HOME/Documents/,file:$HOME/
 detailViewIconSize=16
 
 [UiSettings]

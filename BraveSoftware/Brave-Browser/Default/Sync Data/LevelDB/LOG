@@ -1,3 +1,9 @@
-2022/03/19-01:15:03.606 39511 Reusing MANIFEST /home/kenziemac/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
-2022/03/19-01:15:03.606 39511 Recovering log #4
-2022/03/19-01:15:04.185 39511 Reusing old log /home/kenziemac/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000004.log 
+2022/03/21-06:57:34.979 10efb Reusing MANIFEST /home/kenziemac/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/03/21-06:57:34.979 10efb Recovering log #7
+2022/03/21-06:57:34.979 10efb Reusing old log /home/kenziemac/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000007.log 
+2022/03/21-07:36:27.968 117e9 Level-0 table #11: started
+2022/03/21-07:36:28.412 117e9 Level-0 table #11: 74340 bytes OK
+2022/03/21-07:36:28.525 117e9 Delete type=0 #7
+2022/03/21-08:49:16.496 1266f Level-0 table #13: started
+2022/03/21-08:49:16.824 1266f Level-0 table #13: 57906 bytes OK
+2022/03/21-08:49:17.137 1266f Delete type=0 #10

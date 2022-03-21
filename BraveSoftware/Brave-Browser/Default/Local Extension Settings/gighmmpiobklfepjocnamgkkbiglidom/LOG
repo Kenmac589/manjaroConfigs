@@ -1,26 +1,43 @@
-2022/03/19-01:15:14.752 39510 Reusing MANIFEST /home/kenziemac/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2022/03/19-01:15:14.752 39510 Recovering log #24
-2022/03/19-01:15:14.808 39510 Reusing old log /home/kenziemac/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000024.log 
-2022/03/19-01:16:20.062 3952e Level-0 table #28: started
-2022/03/19-01:16:20.371 3952e Level-0 table #28: 7355718 bytes OK
-2022/03/19-01:16:20.412 3952e Delete type=0 #24
-2022/03/19-01:16:20.420 3952e Compacting 4@0 + 2@1 files
-2022/03/19-01:16:21.108 3952e Generated table #29@0: 1 keys, 7355496 bytes
-2022/03/19-01:16:21.163 3952e Generated table #30@0: 6 keys, 398 bytes
-2022/03/19-01:16:21.164 3952e Compacted 4@0 + 2@1 files => 7355894 bytes
-2022/03/19-01:16:21.210 3952e compacted to: files[ 0 2 1 0 0 0 0 ]
-2022/03/19-01:16:21.218 3952e Delete type=2 #17
-2022/03/19-01:16:21.218 3952e Delete type=2 #18
-2022/03/19-01:16:21.218 3952e Delete type=2 #20
-2022/03/19-01:16:21.218 3952e Delete type=2 #23
-2022/03/19-01:16:21.218 3952e Delete type=2 #25
-2022/03/19-01:16:21.218 3952e Delete type=2 #28
-2022/03/19-01:16:21.963 3952e Level-0 table #32: started
-2022/03/19-01:16:22.287 3952e Level-0 table #32: 7355827 bytes OK
-2022/03/19-01:16:22.333 3952e Delete type=0 #27
-2022/03/19-01:16:24.189 3953b Level-0 table #34: started
-2022/03/19-01:16:24.478 3953b Level-0 table #34: 7357177 bytes OK
-2022/03/19-01:16:24.522 3953b Delete type=0 #31
-2022/03/19-01:16:26.936 39539 Level-0 table #36: started
-2022/03/19-01:16:27.205 39539 Level-0 table #36: 7540335 bytes OK
-2022/03/19-01:16:27.245 39539 Delete type=0 #33
+2022/03/21-06:57:37.295 10f05 Reusing MANIFEST /home/kenziemac/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2022/03/21-06:57:37.298 10f05 Recovering log #46
+2022/03/21-06:57:37.434 10f05 Level-0 table #49: started
+2022/03/21-06:57:38.244 10f05 Level-0 table #49: 7540054 bytes OK
+2022/03/21-06:57:38.425 10f05 Delete type=0 #46
+2022/03/21-06:57:38.429 11020 Compacting 4@0 + 2@1 files
+2022/03/21-06:57:39.761 11020 Generated table #51@0: 1 keys, 7539861 bytes
+2022/03/21-06:57:40.125 11020 Generated table #52@0: 6 keys, 398 bytes
+2022/03/21-06:57:40.125 11020 Compacted 4@0 + 2@1 files => 7540259 bytes
+2022/03/21-06:57:40.735 11020 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/03/21-06:57:40.737 11020 Delete type=2 #49
+2022/03/21-06:57:40.737 11020 Delete type=2 #43
+2022/03/21-06:57:40.737 11020 Delete type=2 #47
+2022/03/21-06:57:40.737 11020 Delete type=2 #40
+2022/03/21-06:57:40.737 11020 Delete type=2 #41
+2022/03/21-06:57:40.737 11020 Delete type=2 #45
+2022/03/21-06:58:45.088 10efb Level-0 table #54: started
+2022/03/21-06:58:46.061 10efb Level-0 table #54: 7539947 bytes OK
+2022/03/21-06:58:46.126 10efb Delete type=0 #50
+2022/03/21-07:00:09.739 110e5 Level-0 table #56: started
+2022/03/21-07:00:10.511 110e5 Level-0 table #56: 7539864 bytes OK
+2022/03/21-07:00:10.664 110e5 Delete type=0 #53
+2022/03/21-07:58:45.028 117e9 Level-0 table #58: started
+2022/03/21-07:58:45.635 117e9 Level-0 table #58: 7539937 bytes OK
+2022/03/21-07:58:46.244 117e9 Delete type=0 #55
+2022/03/21-08:58:43.400 1266f Level-0 table #60: started
+2022/03/21-08:58:43.781 12ea6 Current memtable full; waiting...
+2022/03/21-08:58:44.522 1266f Level-0 table #60: 7539868 bytes OK
+2022/03/21-08:58:44.800 1266f Delete type=0 #57
+2022/03/21-08:58:44.801 12f1e Compacting 4@0 + 2@1 files
+2022/03/21-08:58:46.045 12f1e Level-0 table #62: started
+2022/03/21-08:58:46.842 12f1e Level-0 table #62: 7539866 bytes OK
+2022/03/21-08:58:46.988 12f1e Delete type=0 #59
+2022/03/21-08:58:47.543 12f1e Generated table #63@0: 1 keys, 7539868 bytes
+2022/03/21-08:58:47.862 12f1e Generated table #64@0: 6 keys, 398 bytes
+2022/03/21-08:58:47.862 12f1e Compacted 4@0 + 2@1 files => 7540266 bytes
+2022/03/21-08:58:48.009 12f1e compacted to: files[ 1 2 1 0 0 0 0 ]
+2022/03/21-08:58:48.010 12f1e Delete type=2 #52
+2022/03/21-08:58:48.010 12f1e Delete type=2 #58
+2022/03/21-08:58:48.010 12f1e Delete type=2 #54
+2022/03/21-08:58:48.010 12f1e Delete type=2 #60
+2022/03/21-08:58:48.010 12f1e Delete type=2 #56
+2022/03/21-08:58:48.010 12f1e Delete type=2 #51

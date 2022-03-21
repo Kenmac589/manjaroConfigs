@@ -4,6 +4,7 @@ Recent URLs[$e]=file:$HOME/Pictures/
 detailViewIconSize=16
 
 [PlasmaViews][Panel 25]
+panelOpacity=2
 panelVisibility=0
 
 [PlasmaViews][Panel 25][Defaults]
@@ -14,7 +15,7 @@ thickness=27
 
 [PlasmaViews][Panel 3]
 alignment=132
-panelVisibility=1
+panelVisibility=0
 
 [PlasmaViews][Panel 3][Defaults]
 maxLength=1442
