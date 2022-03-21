@@ -572,7 +572,7 @@ Update() {
     # Store the directory you are calling this
     cwd=$PWD
     # Backup installed homebrew package list
-    backupBrewList # Relies on backupBrewList function
+    # backupBrewList # Relies on backupBrewList function
     # First my dotfiles
     cd $HOME/.config/
     git add . && git commit -m "Update" && git push

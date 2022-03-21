@@ -115,13 +115,9 @@ alias covid="curl -L https://covid19-cli.wareneutron.com"
 alias ymdl="ytmdl -o=/Users/kenzie_mackinnon/Music/ytmdl"
 alias diskl="diskutil list"
 alias stopw='pdd -s "1"'
-alias karabiner="/Library/Application\ Support/org.pqrs/Karabiner-Elements/bin/karabiner_cli"
 alias txls="tmux list-sessions"
 alias mbssh="ssh kenzie_mackinnon@kenziesm1mbp13"
-alias cpip="/home/kenziemac/anaconda3/bin/python -m pip install”
-
-# }}}
-
+alias cpip="/home/kenziemac/anaconda3/bin/python -m pip install"
 # Navigation Shortcuts {{{
 
 alias vmrc="cd /Users/kenzie_mackinnon/.vim_runtime/vimrcs/"
@@ -245,4 +241,3 @@ alias lsa='ls -lah'
 # alias l='ls -lah'
 # alias ll='ls -lh'
 # alias la='ls -lAh'
-
